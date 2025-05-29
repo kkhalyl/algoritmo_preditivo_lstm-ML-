@@ -10,6 +10,12 @@ Utilizar redes neurais recorrentes (LSTM e GRU) para analisar a arrecadação hi
 
 ---
 
+## !Atenção!
+
+Todos os dados utilizados foram substituídos por valores irreais para garantir a proteção dos dados.
+
+---
+
 ## 🧠 Técnicas Utilizadas
 
 - Redes Neurais Recorrentes (LSTM e GRU)
